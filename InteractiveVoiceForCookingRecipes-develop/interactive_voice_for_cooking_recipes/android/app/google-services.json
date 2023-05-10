@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "674745280675",
+    "project_id": "ivfcr-43a7f",
+    "storage_bucket": "ivfcr-43a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674745280675:android:126891dc83e13414333716",
+        "android_client_info": {
+          "package_name": "com.example.interactive_voice_for_cooking_recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674745280675-eur402dbbq0271q9s9ps3j97m1rb6i0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6cQ0PcYuJxDSYqqAMQdO6NdhoICUDxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674745280675-eur402dbbq0271q9s9ps3j97m1rb6i0r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674745280675-3fr384q03d0ebrm1ip6pqg51v8jio018.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.interactiveVoiceForCookingRecipes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

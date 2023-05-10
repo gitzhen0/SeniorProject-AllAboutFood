@@ -1,0 +1,10 @@
+
+interactive_voice_for_cooking_recipes/linux/flutter/generated_plugin_registrant.cc
+interactive_voice_for_cooking_recipes/linux/flutter/generated_plugins.cmake
+interactive_voice_for_cooking_recipes/macos/Flutter/GeneratedPluginRegistrant.swift
+interactive_voice_for_cooking_recipes/windows/flutter/generated_plugin_registrant.cc
+interactive_voice_for_cooking_recipes/windows/flutter/generated_plugins.cmake
+*.cc
+*.cmake
+*.swift
+interactive_voice_for_cooking_recipes/macos/Flutter/GeneratedPluginRegistrant.swift

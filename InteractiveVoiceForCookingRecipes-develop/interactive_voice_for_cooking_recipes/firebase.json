@@ -1,0 +1,15 @@
+{
+    "hosting": {
+        "public": "build/web",
+        "site": "allaboutfoodapp",
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ],
+        "rewrites": [{
+            "source": "**",
+            "destination": "/index.html"
+        }]
+    }
+}
